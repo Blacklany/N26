@@ -8,3 +8,4 @@ host, aisp.tech26.de, proxy
 host, pisp.tech26.de, proxy
 host, spc.n26.com, proxy
 host,fpt.tech26.de,proxy
+host,cdn.number26.de,proxy
