@@ -1,0 +1,10 @@
+# N26 Bank & App Flow
+host, api.tech26.de, proxy
+host, client.tech26.de,proxy
+host, app.n26.com, proxy
+host, auth.tech26.de, proxy
+host, secure.tech26.de, proxy
+host, aisp.tech26.de, proxy
+host, pisp.tech26.de, proxy
+host, spc.n26.com, proxy
+host,fpt.tech26.de,proxy
